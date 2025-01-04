@@ -62,6 +62,8 @@ For questions, suggestions, or collaborations, feel free to open an issue or rea
 
 We welcome contributions to enhance this project! Write us to get in touch. Together, we can improve the accessibility and usability of HR-related data. 🤝
 
+We must also thank [Gibberlink3](https://github.com/Gibberlings3) REPO, from wich we have taken the [License Template](https://github.com/Gibberlings3/GitHub-Templates/blob/master/License-Templates/CC-BY-NC-4.0/LICENSE-CC-BY-NC-4.0.md)
+
 ---
 
 ## 📜 License and Attribution
@@ -72,7 +74,9 @@ This repository operates under a **Creative Commons Attribution-NonCommercial (C
 - **Attribution**: any use of the data must cite OpenSource HR Project and AlmaLaurea as the original source to maintain transparency and traceability of the data's history.
 - **Read the license**: for further details, check the repository's [LICENSE](LICENSE.md) file.
 
-### Important Notice:
+---
+
+### ❗️ Important Notice
 This project is **not affiliated with AlmaLaurea**. It repurposes data collected by AlmaLaurea in accordance with their non-commercial usage policy. For detailed methodologies, analyses, and data criteria, please refer directly to AlmaLaurea's official pages:
 
 - [All the data available from AlmaLaurea surveys](https://www.almalaurea.it/i-dati/tutti-i-dati)
