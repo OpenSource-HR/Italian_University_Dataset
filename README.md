@@ -76,7 +76,8 @@ This repository operates under a **Creative Commons Attribution-NonCommercial (C
 
 ---
 
-### ❗️ Important Notice
+## ❗️ Important Notice
+
 This project is **not affiliated with AlmaLaurea**. It repurposes data collected by AlmaLaurea in accordance with their non-commercial usage policy. For detailed methodologies, analyses, and data criteria, please refer directly to AlmaLaurea's official pages:
 
 - [All the data available from AlmaLaurea surveys](https://www.almalaurea.it/i-dati/tutti-i-dati)
