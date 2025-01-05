@@ -31,7 +31,7 @@ This initiative aligns with AlmaLaurea's terms for non-commercial usage, ensurin
   - **Work in Progress**: We are implementing a column to differentiate between absolute numbers and percentages, as well as separating aggregate data from individual records. Category 5 is currently the most impacted by these upcoming updates.
   - **Methodological Note**: The original data collected by AlmaLaurea used "-" to indicate that no respondents were present in the sample, and "*" to signify that five or fewer respondents answered in that sample, excluding it from analysis. To maintain this structure and improve usability, "-" has been replaced with the numeric value `0` and "*" with `-1` in the dataset. These replacements carry the same meaning as in AlmaLaurea's original methodology. Refer to the "Important Notice" section of this README for links to AlmaLaurea's official pages on data methodologies.
 
-### 🛠️ Future Plans
+### 🔜 Future Plans
 
 - **Enhanced Usability**: Clean and rearrange the dataset further to make it even more user-friendly.
 - **Historical Data**: Include data from previous years, dividing `.csv` files by year.
