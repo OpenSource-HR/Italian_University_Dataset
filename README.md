@@ -54,7 +54,7 @@ This initiative aligns with AlmaLaurea's terms for non-commercial usage, ensurin
 
 For questions, suggestions, or collaborations, feel free to open an issue or reach out:
 
-- **Email**: OpenHRProject@gmail.com 📧
+- **Email**: OpenHRProject@gmail.com 📨
 - **LinkedIn**:  
   👥 [OpenSource HR Project](https://linkedin.com/company/opensource-hr-project)  
     ➡️ [Riccardo Spedito](https://linkedin.com/in/riccardo-spedito)  
