@@ -2,6 +2,8 @@
 
 Welcome to the **Italian Universities Dataset Repository**! 🎉 This repository is dedicated to providing a structured dataset derived from AlmaLaurea, an entity specializing in data collection from Italian university students.
 
+- You will be able to download our last datasets reading the *section ["🛠️ How to Use"](#%EF%B8%8F-how-to-use) below in this Readme*
+
 ## 🌟 About This Repository
 
 The purpose of this repository is to make data analysis on Italian universities accessible and straightforward. The dataset is presented in a tabular format to facilitate non-commercial analysis by:
@@ -40,7 +42,8 @@ This initiative aligns with AlmaLaurea's terms for non-commercial usage, ensurin
 
 ## 🛠️ How to Use
 
-1. Download the `.csv` file for the year of interest directly from the repository.
+1. Download the `.csv` file for the year of interest directly from the releases section.
+   - ➡️ **Here is the [LINK](https://github.com/OpenSource-HR/Italian_University_Dataset/releases/tag/v0.1) for the current version** ⬅️
 2. Open the file using your preferred data analysis tool, such as Tableau or Power BI.
 3. Start exploring and analyzing the data to meet your needs.
 
