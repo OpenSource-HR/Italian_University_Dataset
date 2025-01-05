@@ -62,7 +62,7 @@ For questions, suggestions, or collaborations, feel free to open an issue or rea
 
 ---
 
-## 🌟 Contributing
+## 🌱 Contributing
 
 We welcome contributions to enhance this project! Write us to get in touch. Together, we can improve the accessibility and usability of HR-related data. 🤝
 
