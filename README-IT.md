@@ -57,8 +57,8 @@ Per domande, suggerimenti o collaborazioni, sentiti libero di aprire un issue o 
 - **Email**: OpenHRProject@gmail.com 📨
 - **LinkedIn**:  
   👥 [OpenSource HR Project](https://linkedin.com/company/opensource-hr-project)  
-    ➞ [Riccardo Spedito](https://linkedin.com/in/riccardo-spedito)  
-    ➞ [Federica Dolcemascolo](https://linkedin.com/in/federica-dolcemascolo)  
+    ➡️ [Riccardo Spedito](https://linkedin.com/in/riccardo-spedito)  
+    ➡️ [Federica Dolcemascolo](https://linkedin.com/in/federica-dolcemascolo)  
 
 ---
 
