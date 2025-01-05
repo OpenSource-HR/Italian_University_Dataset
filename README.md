@@ -43,7 +43,7 @@ This initiative aligns with AlmaLaurea's terms for non-commercial usage, ensurin
 ## 🛠️ How to Use
 
 1. Download the `.csv` file for the year of interest directly from the releases section.
-   - ➡️ **Here is the [LINK](https://github.com/OpenSource-HR/Italian_University_Dataset/releases/download/v0.1/Italian_University_Dataset_2023.csv) for the** `Italian_University_Dataset_2023.csv`. It's the only one avaiable at the moment ⬅️
+   - ➡️ **Here is the [LINK](https://github.com/OpenSource-HR/Italian_University_Dataset/releases/download/v0.1/Italian_University_Dataset_2023.csv) for the** `Italian_University_Dataset_2023.csv`. It's the only one available at the moment ⬅️
    - You can find the current and the future versions in the [Releases](https://github.com/OpenSource-HR/Italian_University_Dataset/releases) section, with all their Assets and a detailed description.
 2. Open the file using your preferred data analysis tool, such as Tableau or Power BI.
 3. Start exploring and analyzing the data to meet your needs.
